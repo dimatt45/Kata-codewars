@@ -1,9 +1,10 @@
 {
     "compilerOptions": {
       "target": "es5",
-      "module": "commonjs"
+      "module": "commonjs",
+      "sourceMap": true
     },
     "files": [
-      "Digital_Root.ts",
+      "Dec_to_Fact.ts",
     ]
   }
